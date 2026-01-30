@@ -2,6 +2,8 @@
 This is my first ever project, it has taken me alot of time, but i finally think im done!
 
 Specifications
+
+
 BOM:
 
 4x Cherry MX Switches
