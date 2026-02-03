@@ -6,17 +6,27 @@ Specifications
 
 BOM:
 
-4x Cherry MX Switches
+Core Electronics
 
-2x SK6812 MINI Leds
+1× Seeed XIAO RP2040
 
-1x XIAO RP2040
+4× MX-style switches (out of max 16)
 
-4x Blank DSA Keycaps
+2× SK6812 MINI-E LEDs (out of max 16)
 
-4x M3x16 Bolt
+1× 0.91" OLED display (GND–VCC–SCL–SDA)
 
-4x M3 Heatset
+0× 1N4148 diodes (not used in your design)
+
+Mechanical
+
+4× Blank DSA keycaps (white)
+
+4× M3x16mm screws
+
+4× M3 heatset inserts (M3x5mx4mm)
+
+1× 3D printed case (top + bottom)
 
 
 Case:
