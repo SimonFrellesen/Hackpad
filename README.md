@@ -5,7 +5,7 @@ Ive added an OLED and 2 SK6812 LEDs, there is no top to the case on purpose so i
 
 I made this project to learn and get experience. I love learning about things like PCB design and CAD design. Im interested in making more projects.
 
-
+I want to give the keybinds some functions, which i havent decided yet. Probably Copy Paste and Back, and i want the LEDS to light up when i click any of the keybinds. The OLED is a starting screen.
 
 
 
