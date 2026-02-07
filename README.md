@@ -31,15 +31,17 @@ Mechanical
 
 Case:
 
-<img width="633" height="671" alt="image" src="https://github.com/user-attachments/assets/417dd70f-072b-47ce-9ae7-ba448a233389" />
+<img width="972" height="624" alt="image" src="https://github.com/user-attachments/assets/96b519e6-d0e0-4119-bcac-1c4a86fb16e0" />
 
-<img width="692" height="774" alt="image" src="https://github.com/user-attachments/assets/401807fb-5f64-4993-8588-ba87af44289d" />
 
 Schematic:
 
-<img width="1373" height="812" alt="image" src="https://github.com/user-attachments/assets/7c4dd625-b0d1-4b92-a1a0-dcbfd0dca0fa" />
+<img width="1023" height="642" alt="image" src="https://github.com/user-attachments/assets/89a23b33-c148-4e0d-9a34-33349efb672b" />
+
+
 
 PCB:
 
-<img width="420" height="575" alt="image" src="https://github.com/user-attachments/assets/d8e70551-90f3-4251-ab25-d1666425bd26" />
+<img width="474" height="490" alt="image" src="https://github.com/user-attachments/assets/e8c2d185-4d2c-43d8-9704-0b1a137b42bb" />
+
 
