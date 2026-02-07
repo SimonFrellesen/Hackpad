@@ -30,7 +30,6 @@ BOM
 XIAO RP2040 — https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
 
 3× MX Switches — https://www.cherry.de/de-de/produkt/mx-petal#highlights
-Keycaps,3,DSA Blank Keycaps,https://spkeyboards.com/products/sp-dsa-1-space?_pos=2&_sid=1517b3abf&_ss=r
 
 3× DSA Keycaps — https://spkeyboards.com/products/sp-dsa-1-space?_pos=2&_sid=1517b3abf&_ss=r
 
