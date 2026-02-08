@@ -10,8 +10,11 @@ I want to give the keybinds some functions, which i havent decided yet. Probably
 
 
 Case:
+<img width="961" height="561" alt="image" src="https://github.com/user-attachments/assets/e2dbd1b5-fba2-4f6a-9e37-a8e080c73810" />
 
-<img width="972" height="624" alt="image" src="https://github.com/user-attachments/assets/96b519e6-d0e0-4119-bcac-1c4a86fb16e0" />
+<img width="1037" height="594" alt="image" src="https://github.com/user-attachments/assets/ae329d1f-af88-44f2-94a2-4c3af1698c68" />
+
+<img width="912" height="502" alt="image" src="https://github.com/user-attachments/assets/018ce9eb-1136-4e0a-a80f-7a4a9dea437f" />
 
 
 Schematic:
