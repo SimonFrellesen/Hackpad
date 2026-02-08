@@ -1,7 +1,7 @@
 # Hackpad
 This is my first ever project, it has taken me alot of time, but i finally think im done!
 Its a Hackpad with inspiration from the Hackpad guide in Hackclub Blueprint.
-Ive added an OLED and 2 SK6812 LEDs, there is no top to the case on purpose so its easier to take out if needed.
+Ive added an OLED and 2 SK6812 LEDs.
 
 I made this project to learn and get experience. I love learning about things like PCB design and CAD design. Im interested in making more projects.
 
