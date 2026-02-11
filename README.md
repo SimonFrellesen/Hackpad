@@ -41,3 +41,6 @@ XIAO RP2040 — https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
 1× 0.91" OLED — https://www.alibaba.com/pla/091-Inch-OLED-Display-12832-Module_1601269142088.html?mark=google_shopping&biz=pla&searchText=lcd+modules&product_id=1601269142088&pcy=dk_en&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22700597011&adgrp=180785828586&fditm=&tgt=pla-295818637131&locintrst=&locphyscl=1005307&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=759400368396&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22700597011&gclid=Cj0KCQiA4pvMBhDYARIsAGfgwvx1X7AYZ3_Su9_hLzb9Zzgr-tyjhehcAmzHDxJittwtxviYdVgbd_4aAgNfEALw_wcB
 
 3D printed case
+
+
+(For Shadow: There is no functional or technical difference between .stp and .step files; they are the exact same 3D file format used for transferring 3D models between CAD programs. Both represent the Standard for the Exchange of Product Model Data (ISO 10303), with the only difference being the file extension name length. This is from google btw)
