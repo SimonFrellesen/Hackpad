@@ -10,22 +10,24 @@ I want to give the keybinds some functions, which i havent decided yet. Probably
 
 
 Case:
-<img width="955" height="662" alt="image" src="https://github.com/user-attachments/assets/fde1a33b-00a0-4775-ae4e-6386b1e5f26a" />
+<img width="714" height="491" alt="image" src="https://github.com/user-attachments/assets/4dd6106a-a632-4a7e-ac4d-c5ff767d1195" />
 
 <img width="1037" height="594" alt="image" src="https://github.com/user-attachments/assets/ae329d1f-af88-44f2-94a2-4c3af1698c68" />
 
-<img width="912" height="502" alt="image" src="https://github.com/user-attachments/assets/018ce9eb-1136-4e0a-a80f-7a4a9dea437f" />
+<img width="988" height="626" alt="image" src="https://github.com/user-attachments/assets/cd0bca52-f3ee-4c7f-ae56-68e06e513649" />
+
 
 
 Schematic:
 
-<img width="1023" height="642" alt="image" src="https://github.com/user-attachments/assets/89a23b33-c148-4e0d-9a34-33349efb672b" />
+<img width="368" height="668" alt="image" src="https://github.com/user-attachments/assets/e519b55d-7687-4c20-81c9-75a8bca6a05c" />
 
 
 
 PCB:
 
-<img width="474" height="490" alt="image" src="https://github.com/user-attachments/assets/e8c2d185-4d2c-43d8-9704-0b1a137b42bb" />
+<img width="814" height="821" alt="image" src="https://github.com/user-attachments/assets/11088b4d-b0ca-4ee5-bf6a-25a2bc576c0f" />
+
 
 
 BOM
