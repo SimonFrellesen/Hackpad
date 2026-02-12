@@ -10,7 +10,7 @@ I want to give the keybinds some functions, which i havent decided yet. Probably
 
 
 Case:
-<img width="961" height="561" alt="image" src="https://github.com/user-attachments/assets/e2dbd1b5-fba2-4f6a-9e37-a8e080c73810" />
+<img width="955" height="662" alt="image" src="https://github.com/user-attachments/assets/fde1a33b-00a0-4775-ae4e-6386b1e5f26a" />
 
 <img width="1037" height="594" alt="image" src="https://github.com/user-attachments/assets/ae329d1f-af88-44f2-94a2-4c3af1698c68" />
 
