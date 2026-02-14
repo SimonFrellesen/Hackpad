@@ -20,13 +20,13 @@ Case:
 
 Schematic:
 
-<img width="368" height="668" alt="image" src="https://github.com/user-attachments/assets/e519b55d-7687-4c20-81c9-75a8bca6a05c" />
+<img width="381" height="634" alt="image" src="https://github.com/user-attachments/assets/9e214a21-2758-4382-9829-a6f504f2967f" />
 
 
 
 PCB:
 
-<img width="814" height="821" alt="image" src="https://github.com/user-attachments/assets/11088b4d-b0ca-4ee5-bf6a-25a2bc576c0f" />
+<img width="814" height="821" alt="image" src="https://github.com/user-attachments/assets/ba3b2cc2-c8ba-4e75-ac1a-0b504e50cbf0" />
 
 
 
@@ -41,6 +41,8 @@ XIAO RP2040 — https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
 2× SK6812 LEDs — https://www.fruugo.dk/50pcs-sk6812-mini-e-rgb-similar-with-ws2812b-sk6812-3228-pixel-led-chip-individually-addressable-full-color-dc5v/p-463377372-975161187?language=en&ac=google&utm_source=google&utm_medium=paid&gclsrc=aw.ds&gad_source=1&gad_campaignid=22754370664
 
 1× 0.91" OLED — https://www.alibaba.com/pla/091-Inch-OLED-Display-12832-Module_1601269142088.html?mark=google_shopping&biz=pla&searchText=lcd+modules&product_id=1601269142088&pcy=dk_en&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22700597011&adgrp=180785828586&fditm=&tgt=pla-295818637131&locintrst=&locphyscl=1005307&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=759400368396&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22700597011&gclid=Cj0KCQiA4pvMBhDYARIsAGfgwvx1X7AYZ3_Su9_hLzb9Zzgr-tyjhehcAmzHDxJittwtxviYdVgbd_4aAgNfEALw_wcB
+
+
 
 3D printed case
 
