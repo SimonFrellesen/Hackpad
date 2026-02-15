@@ -31,19 +31,21 @@ PCB:
 
 BOM
 
-XIAO RP2040 — https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+Microcontroller,1,Seeed XIAO RP2040, 3,50$
+https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html,3,9$
+Switches,3,MX Mechanical Switches,https://prototypist.net/products/in-stock-cherry-petal-switches-mx2a-10-pack?variant=56257904279930&country=AE&currency=GBP&utm_source=chatgpt.com,4,82$
+Keycaps,3,DSA Blank Keycaps RED,https://spkeyboards.com/products/sp-dsa-1-space?_pos=2&_sid=1517b3abf&_ss=r
 
-3× MX Switches — https://www.cherry.de/de-de/produkt/mx-petal#highlights
+LEDs,2,SK6812 MINI-E,6,82 $
+https://www.fruugo.dk/50pcs-sk6812-mini-e-rgb-similar-with-ws2812b-sk6812-3228-pixel-led-chip-individually-addressable-full-color-dc5v/p-463377372-975161187?language=en&ac=google&utm_source=google&utm_medium=paid&gclsrc=aw.ds&gad_source=1&gad_campaignid=22754370664&gclid=Cj0KCQiA4pvMBhDYARIsAGfgwvwNpXvtsZomRVqGYj1da2fajGKmsTNVzbFB5r3mlnLZWW9GODhXgWoaAosWEALw_wcB
 
-3× DSA Keycaps — https://spkeyboards.com/products/sp-dsa-1-space?_pos=2&_sid=1517b3abf&_ss=r
+Display,1,0.91in I2C OLED, 1,14 US$
+https://www.alibaba.com/pla/091-Inch-OLED-Display-12832-Module_1601269142088.html?mark=google_shopping&biz=pla&searchText=lcd+modules&product_id=1601269142088&pcy=dk_en&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22700597011&adgrp=180785828586&fditm=&tgt=pla-295818637131&locintrst=&locphyscl=1005307&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=759400368396&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22700597011&gclid=Cj0KCQiA4pvMBhDYARIsAGfgwvx1X7AYZ3_Su9_hLzb9Zzgr-tyjhehcAmzHDxJittwtxviYdVgbd_4aAgNfEALw_wcB
 
-2× SK6812 LEDs — https://www.fruugo.dk/50pcs-sk6812-mini-e-rgb-similar-with-ws2812b-sk6812-3228-pixel-led-chip-individually-addressable-full-color-dc5v/p-463377372-975161187?language=en&ac=google&utm_source=google&utm_medium=paid&gclsrc=aw.ds&gad_source=1&gad_campaignid=22754370664
+PCB, 2$ print, pcb shipping, 23.75$
+https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 
-1× 0.91" OLED — https://www.alibaba.com/pla/091-Inch-OLED-Display-12832-Module_1601269142088.html?mark=google_shopping&biz=pla&searchText=lcd+modules&product_id=1601269142088&pcy=dk_en&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22700597011&adgrp=180785828586&fditm=&tgt=pla-295818637131&locintrst=&locphyscl=1005307&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=759400368396&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22700597011&gclid=Cj0KCQiA4pvMBhDYARIsAGfgwvx1X7AYZ3_Su9_hLzb9Zzgr-tyjhehcAmzHDxJittwtxviYdVgbd_4aAgNfEALw_wcB
-
+Total, 45,93$
 
 
 3D printed case
-
-
-(For Shadow: There is no functional or technical difference between .stp and .step files; they are the exact same 3D file format used for transferring 3D models between CAD programs. Both represent the Standard for the Exchange of Product Model Data (ISO 10303), with the only difference being the file extension name length. This is from google btw)
