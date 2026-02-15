@@ -31,10 +31,14 @@ PCB:
 
 BOM
 
-Microcontroller,1,Seeed XIAO RP2040, 3,50$
-https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html,3,9$
-Switches,3,MX Mechanical Switches,https://prototypist.net/products/in-stock-cherry-petal-switches-mx2a-10-pack?variant=56257904279930&country=AE&currency=GBP&utm_source=chatgpt.com,4,82$
-Keycaps,3,DSA Blank Keycaps RED,https://spkeyboards.com/products/sp-dsa-1-space?_pos=2&_sid=1517b3abf&_ss=r
+Microcontroller,1,Seeed XIAO RP2040, 3,9$ 
+https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+
+Switches,3,MX Mechanical Switches, 4,82$ 
+https://prototypist.net/products/in-stock-cherry-petal-switches-mx2a-10-pack?variant=56257904279930&country=AE&currency=GBP&utm_source=chatgpt.com
+
+Keycaps,3,DSA Blank Keycaps RED, 3,50$
+https://spkeyboards.com/products/sp-dsa-1-space?_pos=2&_sid=1517b3abf&_ss=r
 
 LEDs,2,SK6812 MINI-E,6,82 $
 https://www.fruugo.dk/50pcs-sk6812-mini-e-rgb-similar-with-ws2812b-sk6812-3228-pixel-led-chip-individually-addressable-full-color-dc5v/p-463377372-975161187?language=en&ac=google&utm_source=google&utm_medium=paid&gclsrc=aw.ds&gad_source=1&gad_campaignid=22754370664&gclid=Cj0KCQiA4pvMBhDYARIsAGfgwvwNpXvtsZomRVqGYj1da2fajGKmsTNVzbFB5r3mlnLZWW9GODhXgWoaAosWEALw_wcB
