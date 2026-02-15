@@ -34,10 +34,10 @@ BOM
 Microcontroller,1,Seeed XIAO RP2040, 3,9$ 
 https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
 
-Switches,3,MX Mechanical Switches, 4,82$ 
-https://prototypist.net/products/in-stock-cherry-petal-switches-mx2a-10-pack?variant=56257904279930&country=AE&currency=GBP&utm_source=chatgpt.com
+Switches,3,MX Mechanical Switches, 3,54$
+https://prototypist.net/products/in-stock-cherry-petal-switches-mx2a-10-pack?
 
-Keycaps,3,DSA Blank Keycaps RED, 3,50$
+Keycaps,3,DSA Blank Keycaps RED, 2,95$
 https://spkeyboards.com/products/sp-dsa-1-space?_pos=2&_sid=1517b3abf&_ss=r
 
 LEDs,2,SK6812 MINI-E,6,82 $
@@ -49,7 +49,7 @@ https://www.alibaba.com/pla/091-Inch-OLED-Display-12832-Module_1601269142088.htm
 PCB, 2$ print, pcb shipping, 23.75$
 https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 
-Total, 45,93$
+Total, 44,1$
 
 
 3D printed case
