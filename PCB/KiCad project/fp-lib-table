@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "OPL")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
   (lib (name "Hackclub")(type "KiCad")(uri "${KIPRJMOD}/Hackclub-KiCad-Libraries-main/Hackclub Footprints.pretty")(options "")(descr ""))
+  (lib (name "SK mini e")(type "KiCad")(uri "C:/Users/simon/Downloads/kicad_care_package/kicad_care_package/footprints.pretty")(options "")(descr ""))
 )

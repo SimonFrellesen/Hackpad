@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "OPL")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
   (lib (name "Hackclub")(type "KiCad")(uri "${KIPRJMOD}/Hackclub-KiCad-Libraries-main/Hackclub Symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "SK6812MINI-E")(type "KiCad")(uri "C:/Users/simon/Downloads/kicad_care_package/kicad_care_package/SK6812MINI-E.kicad_sym")(options "")(descr ""))
+  (lib (name "XIAO_RP2040")(type "KiCad")(uri "C:/Users/simon/Downloads/kicad_care_package/kicad_care_package/XIAO_RP2040.kicad_sym")(options "")(descr ""))
 )
