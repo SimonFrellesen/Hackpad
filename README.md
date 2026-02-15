@@ -1,4 +1,4 @@
-# Hackpad
+<img width="827" height="804" alt="image" src="https://github.com/user-attachments/assets/852302ab-ecd1-49f5-80ae-cf5ce26e6f9f" /># Hackpad
 This is my first ever project, it has taken me alot of time, but i finally think im done!
 Its a Hackpad with inspiration from the Hackpad guide in Hackclub Blueprint.
 Ive added an OLED and 2 SK6812 LEDs.
@@ -26,7 +26,9 @@ Schematic:
 
 PCB:
 
-<img width="775" height="819" alt="image" src="https://github.com/user-attachments/assets/dc392377-f843-46b4-9f86-bed3771d4d96" />
+<img width="827" height="804" alt="image" src="https://github.com/user-attachments/assets/3a28f7d3-76ff-457b-ac2b-2881e73472b1" />
+
+
 
 
 BOM
