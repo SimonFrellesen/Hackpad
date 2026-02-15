@@ -46,10 +46,10 @@ https://www.fruugo.dk/50pcs-sk6812-mini-e-rgb-similar-with-ws2812b-sk6812-3228-p
 Display,1,0.91in I2C OLED, 1,14 US$
 https://www.alibaba.com/pla/091-Inch-OLED-Display-12832-Module_1601269142088.html?mark=google_shopping&biz=pla&searchText=lcd+modules&product_id=1601269142088&pcy=dk_en&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22700597011&adgrp=180785828586&fditm=&tgt=pla-295818637131&locintrst=&locphyscl=1005307&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=759400368396&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22700597011&gclid=Cj0KCQiA4pvMBhDYARIsAGfgwvx1X7AYZ3_Su9_hLzb9Zzgr-tyjhehcAmzHDxJittwtxviYdVgbd_4aAgNfEALw_wcB
 
-PCB, 2$ print, pcb shipping, 23.75$
+PCB, 2$ print
 https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 
-Total, 44,1$
+Total, 21,26$
 
 
 3D printed case
