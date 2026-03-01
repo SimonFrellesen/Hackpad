@@ -1,4 +1,4 @@
-<img width="827" height="804" alt="image" src="https://github.com/user-attachments/assets/852302ab-ecd1-49f5-80ae-cf5ce26e6f9f" /># Hackpad
+# Hackpad
 This is my first ever project, it has taken me alot of time, but i finally think im done!
 Its a Hackpad with inspiration from the Hackpad guide in Hackclub Blueprint.
 Ive added an OLED and 2 SK6812 LEDs.
