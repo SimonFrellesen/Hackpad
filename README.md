@@ -10,9 +10,10 @@ I want to give the keybinds some functions, which i havent decided yet. Probably
 
 
 Case:
-<img width="714" height="491" alt="image" src="https://github.com/user-attachments/assets/4dd6106a-a632-4a7e-ac4d-c5ff767d1195" />
 
-<img width="1037" height="594" alt="image" src="https://github.com/user-attachments/assets/ae329d1f-af88-44f2-94a2-4c3af1698c68" />
+<img width="978" height="576" alt="image" src="https://github.com/user-attachments/assets/00b72efe-ff8e-464d-a97e-6c291f83688a" />
+
+<img width="795" height="503" alt="image" src="https://github.com/user-attachments/assets/2be4d46d-a80b-4aee-9953-85cbd64927ab" />
 
 <img width="988" height="626" alt="image" src="https://github.com/user-attachments/assets/cd0bca52-f3ee-4c7f-ae56-68e06e513649" />
 
