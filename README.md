@@ -26,7 +26,7 @@ Schematic:
 
 PCB:
 
-<img width="827" height="804" alt="image" src="https://github.com/user-attachments/assets/3a28f7d3-76ff-457b-ac2b-2881e73472b1" />
+<img width="605" height="638" alt="image" src="https://github.com/user-attachments/assets/9bbaa106-4ac0-4d08-9a58-a2b8c20f6693" />
 
 
 
